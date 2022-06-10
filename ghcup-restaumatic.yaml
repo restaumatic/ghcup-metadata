@@ -3184,7 +3184,7 @@ ghcupDownloads:
             unknown_versioning:
               dlUri: https://downloads.haskell.org/ghcup/unofficial-bindists/stack/2.7.3/stack-2.7.3-linux-armv7.tar.gz
               dlHash: 3e22c66ea38525ca2ee5b0d222c8aa193c50152a53ff2c80ae179a40592512fe
-    2.7.4-restaumatic3:
+    2.7.3-restaumatic3:
       viTags: []
       viChangeLog: https://github.com/commercialhaskell/stack/blob/master/ChangeLog.md#v273
       viPostInstall: *stack-post
@@ -3192,7 +3192,7 @@ ghcupDownloads:
         A_64:
           Linux_UnknownLinux:
             unknown_versioning:
-              dlUri: https://github.com/restaumatic/stack/releases/download/v2.7.4-restaumatic3/stack-2.7.4-linux-x86_64.tar.gz
+              dlUri: https://github.com/restaumatic/stack/releases/download/v2.7.3-restaumatic3/stack-2.7.4-linux-x86_64.tar.gz
               dlHash: ca551aa18f306dd5a79ec1cb094f625d8a86d77eefb7c4e60df4bd7953c29493
               dlSubdir:
                 RegexDir: "stack-.*"
