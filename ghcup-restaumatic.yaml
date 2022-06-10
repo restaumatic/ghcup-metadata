@@ -3192,7 +3192,7 @@ ghcupDownloads:
         A_64:
           Linux_UnknownLinux:
             unknown_versioning:
-              dlUri: https://github.com/restaumatic/stack/releases/download/v2.7.4-restaumatic3/stack-2.7.4-restaumatic3-linux-x86_64.tar.gz
+              dlUri: https://github.com/restaumatic/stack/releases/download/v2.7.4-restaumatic3/stack-2.7.4-linux-x86_64.tar.gz
               dlHash: ca551aa18f306dd5a79ec1cb094f625d8a86d77eefb7c4e60df4bd7953c29493
               dlSubdir:
                 RegexDir: "stack-.*"
